@@ -126,7 +126,7 @@ if(isset ($_SESSION['username'])){
     ?>
       <div class="widget-box">
         <div class="widget-title bg_lg"><span class="icon"><i class="icon-th-large"></i></span>
-          <h5>Referensi Makanan</h5>
+          <h5>Referensi Minuman</h5>
           <a href="tambah_menu.php" class="btn btn-info btn-mini label"><i class="icon-plus"></i>&nbsp;Tambah Data</a>
         </div>
         <div class="widget-content" >
